@@ -6,6 +6,12 @@ A modern, collaborative task management system with real-time synchronization, o
 
 This application provides a robust TODO management platform built with React frontend and Go backend, utilizing PostgreSQL for data persistence and WebSockets for real-time collaboration. Users can create, manage, and share TODO lists with instant synchronization across all connected devices.
 
+![TODO List Interface](images/entry_1.png)
+*Main TODO list interface showing task management and creation*
+
+![TODO List Main Interface](images/entry_1.png)
+*The main TODO list interface showing a clean, intuitive design for managing tasks*
+
 ### Key Features
 
 - **Real-Time Collaboration**: Changes sync instantly across all devices via WebSockets

@@ -87,6 +87,12 @@ This document provides the complete technical requirements and architectural con
     *   **FR-3.2**: TODOs **must** support optional due dates with timezone handling
     *   **FR-3.3**: TODOs **must** be assignable to shared list participants
     *   **FR-3.4**: Completed TODOs **must** remain visible with strikethrough
+    
+    ![TODO Creation Form](images/add_2.png)
+    *TODO creation interface showing title, description, and completion toggle*
+    
+    ![New TODO Creation Interface](images/add_2.png)
+    *The TODO creation interface with fields for title, description, and completion status*
 *   **FR-4: Real-Time Synchronization**
     *   **FR-4.1**: All changes **must** be broadcast via WebSocket to connected clients within 100ms
     *   **FR-4.2**: Clients **must** implement optimistic updates with rollback on failure

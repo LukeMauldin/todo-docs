@@ -135,6 +135,18 @@ TODOs are the core work units within lists:
 - **Positioning**: Maintains order within list
 - **Soft Delete**: Completed items remain for history
 
+![TODO List View](images/entry_1.png)
+*Main interface showing TODO items with completion status and quick add button*
+
+![TODO Creation](images/add_2.png)
+*TODO creation form with title, description, and completion toggle*
+
+![TODO List Interface](images/entry_1.png)
+*Example of the TODO list interface showing various tasks with completion status*
+
+![TODO Creation Form](images/add_2.png)
+*The streamlined TODO creation form with essential fields*
+
 ### 4. Real-Time Synchronization
 All changes propagate instantly to connected clients:
 1. Client makes change (optimistic update)
