@@ -9,7 +9,7 @@ This application provides a robust TODO management platform built with React fro
 ![TODO List Interface](images/entry_1.png)
 *Main TODO list interface showing task management and creation*
 
-![TODO List Add Interface](images/add_1.png)
+![TODO List Add Interface](images/add_2.png)
 *The main TODO list interface showing a clean, intuitive design for managing tasks*
 
 ### Key Features
